@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website based only on html using links, lists etc
+Recipes website based only on html using links, ordered lists, unordered lists, heading and other basic elements
